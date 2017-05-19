@@ -109,7 +109,19 @@ public class Tickets
         System.out.println(" Suite Style Seats: $120.00");
         System.out.println();
         
+// int col = 4;
+// int row =4;
         
+ //String[][] Asd = new String[col][row]; 
+ //Asd[1][0] = "Which section would you like to sit?";
+ //Asd[2][0] = "-------------------------";
+ //Asd[3][0] = "Upper Level: $15.00";
+ //for(int i = 0; i < row; i++);
+ //for(j=0;j<5;j++) {Asd [i][j];
+ //System.out.println(Asd);
+//String Seat[] = {"Which section would you like to sit?","-------------------------","Upper Level: $15.00","Middle Level: $45.00","Lower Level: $85.00","Suite Style Seats: $120.00"};
+  //      System.out.println(Seat);
+
       
 
         //Prompting the user to enter the section they would like
